@@ -98,8 +98,9 @@ output :
 write result + "\n"
 
 #### How to run the code :
-1. copy the code to url 'https://www.hackerrank.com/challenges/simple-array-sum/problem' (make sure the code bar is empty)
-2. paste the JAVASCRIPT CODE to the code bar
+1. copy JAVASCRIPT CODE 
+2. open url https://www.hackerrank.com/challenges/simple-array-sum/problem
+2. paste the JAVASCRIPT CODE to the code editor bar(replace the old code)
 3. select "javascript(Node.js)" as the language
 4. click Run Program Button at the bottom right of the code bar
 
